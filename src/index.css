@@ -17,7 +17,7 @@ body{
 }
 .form-control{
   font-size: 20px;
-  background-color: #e7f0a1;
+  background-color: #fafec9;
 }
 button{
   margin-top: 10px;
@@ -27,5 +27,8 @@ button{
   color: white;
 }
 h2{
-  color: rgb(48, 126, 126);
+  color: rgb(27, 101, 101);
 }
+/* p{
+  color: #025d5d;
+} */
